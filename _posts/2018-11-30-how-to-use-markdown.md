@@ -3,9 +3,9 @@ title: "How to use Markdown"
 date: 2018-11-30 07:05:00: -0000
 categories: markdown
 ---
-#How to use Markdown
+# How to use Markdown
 [TOC]
-##Highlight
+## Highlight
 `**Bold**` **Bold**
 `*Emphasize*` *Emphasize*
 `++Underline++` ++Underline++
@@ -14,7 +14,7 @@ categories: markdown
 `^superscript^` ^superscript^
 `~subscript~` ~subscript~
 
-##Link
+## Link
 `[bifam](바이팜.kr)` [bifam](http://바이팜.kr)
 
 `@[bifam](바이팜.kr, 'BIFAM')` @[bifam](http://바이팜.kr, 'BIFAM')
@@ -22,7 +22,7 @@ categories: markdown
 `![google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png "Google")` 
 ![google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png "Google")
 
-######Another Link usage
+###### Another Link usage
 <pre>
 [link1](thisIsLink1)
 [link2](thisIsLink2)
@@ -42,7 +42,7 @@ categories: markdown
 [link3]:	https://ep1stas1s.github.com
 
 
-##Code Review
+## Code Review
 `<pre><code> import... </code></pre>`or
 <pre>
 ```
@@ -59,7 +59,7 @@ class Main{
 </code></pre>
 
 
-##Order List
+## Order List
 `1. list...`
 1. list1
 2. list2
@@ -71,14 +71,14 @@ class Main{
 
 
 
-##Check Box
+## Check Box
 `- [ ] checkbox...` 
 - [ ] checkbox1
 
 `- [x] checkbox...` 
 - [x] checkbox2
 
-##Table
+## Table
 <pre>| column | column |
 |--------|--------|
 | table1 | table2 |</pre>
@@ -87,7 +87,7 @@ class Main{
 |--------|--------|
 | table1 | table2 |
 
-##Break line
+## Break line
 `* * *`
 * * *
 `- - -`
