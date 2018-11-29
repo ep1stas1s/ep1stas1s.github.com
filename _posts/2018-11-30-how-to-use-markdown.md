@@ -4,21 +4,20 @@ date: 2018-11-30 07:05:00: -0000
 categories: markdown
 ---
 # How to use Markdown
-</br>
 
 ## Highlight
-`**Bold**` **Bold**
-`*Emphasize*` *Emphasize*
-`++Underline++` ++Underline++
-`==Highlight==` ==Highlight==
-`~~Strikethorough~~` ~~Strikethorough~~
-`^superscript^` ^superscript^
-`~subscript~` ~subscript~
+`**Bold**` **Bold**</br>
+`*Emphasize*` *Emphasize*</br>
+`++Underline++` ++Underline++</br>
+`==Highlight==` ==Highlight==</br>
+`~~Strikethorough~~` ~~Strikethorough~~</br>
+`^superscript^` ^superscript^</br>
+`~subscript~` ~subscript~</br>
 
 ## Link
-`[bifam](바이팜.kr)` [bifam](http://바이팜.kr)
+`[bifam](바이팜.kr)` [bifam](http://바이팜.kr)</br>
 
-`@[bifam](바이팜.kr, 'BIFAM')` @[bifam](http://바이팜.kr, 'BIFAM')
+`@[bifam](바이팜.kr, 'BIFAM')` @[bifam](http://바이팜.kr, 'BIFAM')</br>
 
 `![google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png "Google")` 
 ![google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png "Google")
@@ -38,9 +37,9 @@ categories: markdown
 [link2](thisIsLink2)
 [link3](thisIsLink3)
 
-[link1]:	https://jekyllrb.com
-[link2]:	https://github.com
-[link3]:	https://ep1stas1s.github.com
+[thisIsLink1]:	https://jekyllrb.com
+[thisIsLink2]:	https://github.com
+[thisIsLink3]:	https://ep1stas1s.github.com
 
 
 ## Code Review
@@ -96,8 +95,8 @@ class Main{
 `---`
 
 ---
-`<hr>`
-<hr>
+`</hr>`
+</hr>
 
 
 
