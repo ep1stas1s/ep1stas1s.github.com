@@ -15,9 +15,9 @@ categories: markdown
 `~subscript~` ~subscript~
 
 ##Link
-`[bifam](바이팜.kr)` [bifam](바이팜.kr)
+`[bifam](바이팜.kr)` [bifam](http://바이팜.kr)
 
-`@[bifam](바이팜.kr, 'BIFAM')` @[bifam](바이팜.kr, 'BIFAM')
+`@[bifam](바이팜.kr, 'BIFAM')` @[bifam](http://바이팜.kr, 'BIFAM')
 
 `![google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png "Google")` 
 ![google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png "Google")
