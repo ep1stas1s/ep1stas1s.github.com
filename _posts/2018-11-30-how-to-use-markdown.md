@@ -4,7 +4,8 @@ date: 2018-11-30 07:05:00: -0000
 categories: markdown
 ---
 # How to use Markdown
-<br>
+</br>
+
 ## Highlight
 `**Bold**` **Bold**
 `*Emphasize*` *Emphasize*
